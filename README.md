@@ -1,1 +1,6 @@
 # ArgoCD
+
+# INSTALLATION
+```
+$ https://argo-cd.readthedocs.io/en/stable/getting_started/
+```
